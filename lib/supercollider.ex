@@ -1,0 +1,2 @@
+defmodule SuperCollider do
+end
